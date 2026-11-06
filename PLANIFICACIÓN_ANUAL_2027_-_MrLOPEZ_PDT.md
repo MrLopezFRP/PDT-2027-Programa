@@ -28,7 +28,7 @@
 | Nombre y  Apellido | Grado Académico  | Dedicación | Situación de revista    |
 | :---- | :---- | :---- | :---- |
 | **Mario Raúl López** | **Profesor Adjunto** | **Simple** | **Concursado/Regular** |
-| **Miguel Salatín** | **JTP** | **Simple** | **Interino** |
+| **Miguel A. Salatín** | **JTP** | **Simple** | **Interino** |
 
 **1- Perfil Profesional:**
 
